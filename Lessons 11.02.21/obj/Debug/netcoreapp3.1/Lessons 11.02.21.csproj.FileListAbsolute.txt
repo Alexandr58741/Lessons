@@ -1,0 +1,15 @@
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\bin\Debug\netcoreapp3.1\Lessons 11.02.21.exe
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\bin\Debug\netcoreapp3.1\Lessons 11.02.21.deps.json
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\bin\Debug\netcoreapp3.1\Lessons 11.02.21.runtimeconfig.json
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\bin\Debug\netcoreapp3.1\Lessons 11.02.21.runtimeconfig.dev.json
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\bin\Debug\netcoreapp3.1\Lessons 11.02.21.dll
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\bin\Debug\netcoreapp3.1\Lessons 11.02.21.pdb
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.csprojAssemblyReference.cache
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons_11._02._21.Form1.resources
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.csproj.GenerateResource.cache
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.AssemblyInfoInputs.cache
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.AssemblyInfo.cs
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.csproj.CoreCompileInputs.cache
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.dll
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.pdb
+C:\Users\Школа\source\repos\Lessons 11.02.21\Lessons 11.02.21\obj\Debug\netcoreapp3.1\Lessons 11.02.21.genruntimeconfig.cache
