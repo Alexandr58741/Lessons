@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\bin\Debug\Lessons 18.02.21.exe.config
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\bin\Debug\Lessons 18.02.21.exe
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\bin\Debug\Lessons 18.02.21.pdb
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons 18.02.21.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons_18._02._21.Form1.resources
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons_18._02._21.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons 18.02.21.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons 18.02.21.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons 18.02.21.exe
+C:\Users\Lenovo\source\repos\Lessons 18.02.21\Lessons 18.02.21\obj\Debug\Lessons 18.02.21.pdb
